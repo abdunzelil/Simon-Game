@@ -1,6 +1,6 @@
 # Simon-Game
 
-![image](https://user-images.githubusercontent.com/93703261/173889358-0da2e954-c91e-413a-aad5-030c212e415a.png)
+https://user-images.githubusercontent.com/93703261/173890047-dd59c5c9-b709-41e0-bab6-e4930ab2e84d.mp4
 
 Classical Simon Game made with HTML, CSS and JavaScript (jQuery). 
 
