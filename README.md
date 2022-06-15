@@ -4,4 +4,4 @@
 
 Classical Simon Game made with HTML, CSS and JavaScript (jQuery). 
 
-
+Play now: https://abdunzelil.github.io/Simon-Game/
